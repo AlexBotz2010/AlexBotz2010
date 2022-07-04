@@ -1,5 +1,5 @@
-/**
-   * Create By Dika Ardnt.
+Ė/**
+   * Create By ALEX.
    * Contact Me on wa.me/6288292024190
    * Follow https://github.com/DikaArdnt
 */
@@ -18,8 +18,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283167714830','6281382420312','6287721317870','6288292024190']
-global.premium = ['6288292024190']
+global.owner = ['62895621698905']
+global.premium = ['62895621698905']
 global.packname = 'Hisoka Morrow'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'hisoka'
